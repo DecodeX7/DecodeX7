@@ -113,7 +113,7 @@
 
   <!-- PostgreSQL -->
   <rect x="231" y="148" width="72" height="20" rx="3" fill="rgba(67,233,123,0.1)" stroke="rgba(67,233,123,0.3)" stroke-width="0.8"/>
-  <text x="267" y="162" text-anchor="middle" font-family="monospace" font-size="8" fill="#43e97b" letter-spacing="0.5">POSTGRESQL</text>
+  <text x="267" y="162" text-anchor="middle" font-family="monospace" font-size="8" fill="#43e97b" letter-spacing="0.5">MySQL</text>
 
   <!-- PyTorch -->
   <rect x="311" y="148" width="58" height="20" rx="3" fill="rgba(252,92,125,0.1)" stroke="rgba(252,92,125,0.3)" stroke-width="0.8"/>
