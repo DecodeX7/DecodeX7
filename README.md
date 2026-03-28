@@ -175,16 +175,16 @@ alias     : "DecodeX7"
 degree    : "B.Tech CSE (Artificial Intelligence)"
 location  : "Varanasi, India 🇮🇳"
 status    : "Open to work → Full-time & Internships"
-focus     : ["Full Stack Dev", "AI/ML Engineering", "DevOps"]
+focus     : ["Full Stack Dev", "AI/ML Engineering", "Data Analyst"]
 ```
 
 <br/>
 
-🔭 &nbsp;Currently building **Smart Systems** with ASP.NET Core + PostgreSQL  
+🔭 &nbsp;Currently building **Smart Systems** with ASP.NET Core + MySQL  
 🧠 &nbsp;Deep Learning enthusiast — **ResNet50**, **Grad-CAM**, **Transfer Learning**  
 🐳 &nbsp;Containerizing everything with **Docker** — deployed on **Render**  
 ⚡ &nbsp;Fun fact: I name all my projects like space missions 🪐  
-📫 &nbsp;Reach me on **[Instagram](https://www.instagram.com/spcool786?igsh=N3NodG5pMHA5eWhv)** or **[GitHub](https://github.com/DecodeX7)**
+📫 &nbsp;Reach me on **[Instagram](https://www.instagram.com/s.108.p?igsh=N3NodG5pMHA5eWhv)** or **[GitHub](https://github.com/DecodeX7)**
 
 <br clear="right"/>
 
